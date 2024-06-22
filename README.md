@@ -1,2 +1,2 @@
 # CarruselEx1
-An example / to practice 
+An example | to practice 
